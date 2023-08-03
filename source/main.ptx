@@ -46,30 +46,30 @@
       </colophon>
     </frontmatter>
 
-    <chapter xml:id="chapter-title">
+    <chapter xml:id="A-Level">
       <title>A-Level</title>
       <!--The following are derivations guaranteed accessible to sixth-form or equivalent students-->
-      <section xml:id="section-title">
+      <section xml:id="Special Relativity">
         <title>Special Relativity</title>
         <p></p>
       </section>
       
-      <section xml:id="section-title">
+      <section xml:id="The Normal Distribution">
         <title>The Normal Distribution</title>
         <p></p>
       </section>
 
     </chapter>
 
-    <chapter xml:id="chapter-title">
+    <chapter xml:id="Numerical Analysis">
       <title>Numerical Analysis</title>
       <!--Now cover simple interpolation until we can approximate the inegrals in the previous section-->
-      <section xml:id="section-title">
+      <section xml:id="Interpolation Rules">
         <title>Interpolation Rules</title>
         <p></p>
       </section>
       
-      <section xml:id="section-title">
+      <section xml:id="Estimating The Normal Distribution">
         <title>Estimating The Normal Distribution</title>
         <p></p>
       </section>
