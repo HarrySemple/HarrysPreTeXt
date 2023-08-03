@@ -13,7 +13,7 @@
 
   <book xml:id="my-great-book">
     <title>Salient Points</title>
-    <subtitle>Maths I've Found very Interesting</subtitle>
+    <subtitle>Maths I've Found Interesting</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
