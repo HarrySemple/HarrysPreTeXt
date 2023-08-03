@@ -54,14 +54,14 @@
         <p></p>
       </section>
       
-      <section xml:id="The Normal Distribution">
+      <section xml:id="The-Normal-Distribution">
         <title>The Normal Distribution</title>
         <p></p>
       </section>
 
     </chapter>
 
-    <chapter xml:id="Numerical Analysis">
+    <chapter xml:id="Numerical-Analysis">
       <title>Numerical Analysis</title>
       <!--Now cover simple interpolation until we can approximate the inegrals in the previous section-->
       <section xml:id="Interpolation Rules">
@@ -69,7 +69,7 @@
         <p></p>
       </section>
       
-      <section xml:id="Estimating The Normal Distribution">
+      <section xml:id="Estimating-The-Normal-Distribution">
         <title>Estimating The Normal Distribution</title>
         <p></p>
       </section>
