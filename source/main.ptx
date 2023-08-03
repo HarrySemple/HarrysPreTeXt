@@ -12,15 +12,15 @@
   </docinfo>
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Salient Points</title>
+    <subtitle>Maths I've Found Interesting</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Harry Semple</personname>
+          <department>4th Year MMath</department>
+          <institution>University of Bath</institution>
         </author>
         <date>
           <today />
@@ -47,11 +47,31 @@
     </frontmatter>
 
     <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
-
+      <title>A-Level</title>
+      <!--The following are derivations guaranteed accessible to sixth-form or equivalent students-->
       <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+        <title>Special Relativity</title>
+        <p></p>
+      </section>
+      
+      <section xml:id="section-title">
+        <title>The Normal Distribution</title>
+        <p></p>
+      </section>
+
+    </chapter>
+
+    <chapter xml:id="chapter-title">
+      <title>Numerical Analysis</title>
+      <!--Now cover simple interpolation until we can approximate the inegrals in the previous section-->
+      <section xml:id="section-title">
+        <title>Interpolation Rules</title>
+        <p></p>
+      </section>
+      
+      <section xml:id="section-title">
+        <title>Estimating The Normal Distribution</title>
+        <p></p>
       </section>
 
     </chapter>
